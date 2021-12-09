@@ -1,4 +1,5 @@
-const dayUntilXmas = () => {
+// Content of the index.js file
+function daysUntilXmas() {
     const timeInADay = 24 * 60 * 60 * 1000;
     const now = new Date();
     const thisYear = now.getFullYear();
@@ -9,4 +10,4 @@ const dayUntilXmas = () => {
     return Math.abs(Math.ceil((dateOfChristmas - now) / timeInADay));
 }
 
-module.export = dayUntilXmas;
+module.exports = daysUntilXmas
