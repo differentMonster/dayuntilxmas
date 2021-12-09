@@ -9,4 +9,4 @@ const dayUntilXmas = () => {
     return Math.abs(Math.ceil((dateOfChristmas - now) / timeInADay));
 }
 
-modeule.export = dayUntilXmas;
+module.export = dayUntilXmas;
