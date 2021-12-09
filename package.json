@@ -1,0 +1,19 @@
+{
+  "name": "dayuntilxmas",
+  "version": "0.0.1",
+  "description": "testing js modal plugin",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/differentMonster/dayuntilxmas.git"
+  },
+  "author": "christopher",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/differentMonster/dayuntilxmas/issues"
+  },
+  "homepage": "https://github.com/differentMonster/dayuntilxmas#readme"
+}
