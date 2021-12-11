@@ -1,6 +1,3 @@
-// Content of the index.js file
-function daysUntilXmas() {
-    console.log("this is xmas function")
-}
-
-module.exports = daysUntilXmas
+export * from '.core/index'
+// export * from '.models/index'
+// export * from '.shaders/index'
