@@ -1,7 +1,7 @@
-function shadersLight() {
-    console.log(shadersLight)
+export function shadersLight() {
+    console.log("this is shadersLight function")
 }
 
-export {
-    shadersLight
+function getPower() {
+    console.log("this getPower functions")
 }
