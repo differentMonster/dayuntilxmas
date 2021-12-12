@@ -2,6 +2,6 @@
 // export * from './models/index'
 // export * from './shaders/index'
 
-export function greetPerson(name) {
+export default function greetPerson(name) {
     return `Hello ${name}`;
 }
