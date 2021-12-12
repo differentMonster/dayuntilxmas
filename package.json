@@ -1,19 +1,20 @@
 {
-  "name": "dayuntilxmas",
-  "version": "2.0.0",
-  "description": "testing js modal plugin",
-  "main": "index.js",
-  "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
-  },
-  "repository": {
-    "type": "git",
-    "url": "git+ssh://git@github.com/differentMonster/dayuntilxmas.git"
-  },
-  "author": "christopher",
-  "license": "MIT",
-  "bugs": {
-    "url": "https://github.com/differentMonster/dayuntilxmas/issues"
-  },
-  "homepage": "https://github.com/differentMonster/dayuntilxmas#readme"
+    "name": "dayuntilxmas",
+    "version": "2.0.0",
+    "description": "testing js modal plugin",
+    "main": "index.js",
+    "type": "module",
+    "scripts": {
+        "test": "echo \"Error: no test specified\" && exit 1"
+    },
+    "repository": {
+        "type": "git",
+        "url": "git+ssh://git@github.com/differentMonster/dayuntilxmas.git"
+    },
+    "author": "christopher",
+    "license": "MIT",
+    "bugs": {
+        "url": "https://github.com/differentMonster/dayuntilxmas/issues"
+    },
+    "homepage": "https://github.com/differentMonster/dayuntilxmas#readme"
 }
