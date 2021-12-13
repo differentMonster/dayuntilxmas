@@ -1,3 +1,7 @@
-export function greetPerson(name) {
-    return `Hello ${name}`;
+console.log(`Hello this is dayuntilxmas`)
+
+module.exports = {
+    mustCreate: () => {
+        console.log("mustCreate")
+    }
 }
