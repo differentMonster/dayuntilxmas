@@ -1,11 +1,22 @@
-console.log(`Hello this is dayuntilxmas`)
+// class Dashboard {
+//     constructor() {
+//         console.log(`Hello this is dayuntilxmas`)
+//     }
+//     loadDashboard() {
+//         console.log(`Dashboard component is loaded`)
+//     }
+// }
 
-class Dashboard {
-    loadDashboard() {
-        console.log(`Dashboard component is loaded`)
-    }
+// export {
+//     Dashboard
+// }
+
+
+export function loadDashboard() {
+    console.log('Dashboard component is loaded export')
 }
 
-export {
-    Dashboard
+
+export function mustCreate() {
+    console.log('this is mustcreate function')
 }
