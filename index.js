@@ -1,7 +1,11 @@
 console.log(`Hello this is dayuntilxmas`)
 
-module.exports = {
-    mustCreate: () => {
-        console.log("mustCreate")
+class Dashboard {
+    loadDashboard() {
+        console.log(`Dashboard component is loaded`)
     }
+}
+
+export {
+    Dashboard
 }
